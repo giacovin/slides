@@ -1,2 +1,2 @@
 # smallblog
-22 lies of undefined issues
+22 lines of undefined issues
